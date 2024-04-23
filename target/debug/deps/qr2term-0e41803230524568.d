@@ -1,0 +1,11 @@
+/home/trevorphilips/Desktop/Coding/rust/RustTermQR/target/debug/deps/libqr2term-0e41803230524568.rmeta: /home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/lib.rs /home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/matrix.rs /home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/qr.rs /home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/render.rs /home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/util.rs
+
+/home/trevorphilips/Desktop/Coding/rust/RustTermQR/target/debug/deps/libqr2term-0e41803230524568.rlib: /home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/lib.rs /home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/matrix.rs /home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/qr.rs /home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/render.rs /home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/util.rs
+
+/home/trevorphilips/Desktop/Coding/rust/RustTermQR/target/debug/deps/qr2term-0e41803230524568.d: /home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/lib.rs /home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/matrix.rs /home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/qr.rs /home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/render.rs /home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/util.rs
+
+/home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/lib.rs:
+/home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/matrix.rs:
+/home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/qr.rs:
+/home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/render.rs:
+/home/trevorphilips/.cargo/registry/src/index.crates.io-6f17d22bba15001f/qr2term-0.2.3/src/util.rs:
