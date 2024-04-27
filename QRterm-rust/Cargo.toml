@@ -1,0 +1,9 @@
+[package]
+name = "QRterm-rust"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+qrcode = "0.12.0"
+qr2term = "0.3.0"
+
